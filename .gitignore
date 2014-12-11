@@ -1,0 +1,4 @@
+# Ignore VIM Swap Files
+*.swp
+# Some weird Windows Temp files
+*~
