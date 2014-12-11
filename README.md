@@ -1,6 +1,7 @@
 coffescript-scripts
 ===================
 
+## Description  
 A collection of random CoffeeScripts for my reference and other peoples
 
 Contributing  
